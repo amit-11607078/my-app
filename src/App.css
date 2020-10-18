@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: rgba(236, 252, 255, 0.473);
 }
 
 .App-logo {
@@ -35,4 +36,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.report1 {
+  background-color: antiquewhite !important;
+}
+
+.sdiv {
+  margin-bottom: 20px;
+}
+
+p {
+  color: #607d8b;
 }
