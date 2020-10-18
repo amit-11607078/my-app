@@ -1,3 +1,7 @@
+![alt text](<https://github.com/amit-11607078/my-app/blob/main/screenshots/Screenshot%20(361).png>)
+
+![alt text](<https://github.com/amit-11607078/my-app/blob/main/screenshots/Screenshot%20(362).png>)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
